@@ -290,7 +290,10 @@ input[type=submit]:hover {
     margin-right: auto;
     text-align: center;
   }
-  }
+  .fixed{
+    position:fixed;
+}
+    
     
   
     
